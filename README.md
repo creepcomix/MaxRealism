@@ -2,7 +2,7 @@
 ### MaxRealism: Vanilla is dead. Welcome to reality.
 
 
-**Want 2048x?** Grab it as a one-time lifetime purchase in the [Shop](https://www.patreon.com/nerdgirl_art/posts/maxrealism-2048x-129851925?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link): pay once, get every future update automatically. Or subscribe via [Membership](url) if you'd rather support monthly.
+**Want 2048x?** Grab it as a one-time lifetime purchase in the [Shop](https://www.patreon.com/nerdgirl_art/posts/maxrealism-2048x-129851925?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link): pay once, get every future update automatically. Or subscribe via [Membership]((https://www.patreon.com/cw/nerdgirl_art/membership)) if you'd rather support monthly.
 
 **⚠️ Work in Progress ⚠️** MaxRealism is actively being updated. New textures drop regularly—check back for fresh blocks as development continues.
 
